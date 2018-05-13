@@ -1,0 +1,66 @@
+[
+    {
+        "es": {
+            "home": {
+                "title": "Inicio",
+                "phrase": {
+                    "first": "Desencadena tu",
+                    "second": "Heroe",
+                    "third": "Poder"
+                },
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere.",
+                "apply": "Aplicar",
+                "donate": "Donar"
+            },
+            "apply": {
+                "title": "Aplicar",
+                "why": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere."
+            },
+            "testimonials": {
+                "title": "Testimonios"
+            },
+            "donate": {
+                "title": "Donar",
+                "why": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere.",
+                "cta": "¡Quiero donar!"
+            },
+            "sponsors": {
+                "title": "Patrocinadores"
+            },
+            "team": {
+                "title": "Nuestro equipo"
+            }
+        },
+        "en": {
+            "home": {
+                "title": "Home",
+                "phrase": {
+                    "first": "Unleash your",
+                    "second": "Hero",
+                    "third": "Powers"
+                },
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere.",
+                "apply": "Apply",
+                "donate": "Donate"
+            },
+            "apply": {
+                "title": "Apply",
+                "why": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere."
+            },
+            "testimonials": {
+                "title": "Testimonials"
+            },
+            "donate": {
+                "title": "Donar",
+                "why": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus massa ac elit dictum pellentesque. Donec varius quam vel ante posuere luctus. In quis arcu molestie nibh venenatis imperdiet placerat ac justo. Pellentesque est posuere.",
+                "cta": "Donate now!"
+            },
+            "sponsors": {
+                "title": "Sponsors"
+            },
+            "team": {
+                "title": "Our team"
+            }
+        }
+    }
+]

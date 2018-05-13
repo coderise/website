@@ -1,0 +1,15 @@
+{% assign t = site.data.lang[0].[page.lang] %}
+<div data-stellar-ratio="2" class="slide" id="team">
+    <h3>{{ t.team.title }}</h3>
+    <div class="team">
+        {% for member in site.data.team %}
+            <div class="member">
+                <a href="{{ member.link }}" target="_blank">
+                    <img src="/images/team/{{ member.photo }}" alt="{{ member.name }}">
+                </a>
+                <p class="member-name">{{ member.name }}</p>
+                <p class="member-description">{{ member.description }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>

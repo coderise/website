@@ -1,0 +1,12 @@
+{% assign t = site.data.lang[0].[page.lang] %}
+<div data-stellar-ratio="2" class="slide" id="home">
+    <h2>{{ t.home.phrase.first }} <span>{{ t.home.phrase.second }}</span><span>{{ t.home.phrase.third }}</span></h2>
+    <p>{{ t.home.text }}</p>
+    <div class="cta">
+        <a href="#apply">{{ t.home.apply }}</a>
+        <a href="#home">
+            <img src="/images/logo.png" alt="Coderise International">
+        </a>
+        <a href="#donate">{{ t.home.donate }}</a>
+    </div>
+</div>

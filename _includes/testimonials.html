@@ -1,0 +1,15 @@
+<div data-stellar-ratio="2" class="slide" id="testimonials">
+    <h3>{{ t.testimonials.title }}</h3>
+    <div class="testimonials">
+        {% for single in site.data.testimonials %}
+            {% if single.youtube %}
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ single.video }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            {% endif %}
+            <div class="testimonial-data">
+                <p>{{ single.name }}</p>
+                <p><span>{{ single.cr-age }}</span> - <span>{{ single.cr-year }}</span></p>
+                <p>{{ single.text }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>
